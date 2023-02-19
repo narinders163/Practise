@@ -19,7 +19,6 @@ public class CreateDirectory {
         {
             e.printStackTrace();
         }
-        System.out.println("jbjzbjzdbjdb");
 
     }
 }
